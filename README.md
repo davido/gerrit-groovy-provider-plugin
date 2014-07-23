@@ -1,3 +1,8 @@
+Outdated, latest version is:
+============================
+
+https://gerrit-review.googlesource.com/#/admin/projects/plugins/scripting/groovy-provider
+
 Gerrit Groovy Provider Plugin
 =============================
 
